@@ -1,5 +1,5 @@
 {
-    "name": "zoilomora/laravel-msaccess",
+    "name": "jiangslee/laravel-msaccess",
     "description": "This package helps you to manage Microsoft Access DB by ODBC Connection with the integrated Laravel ORM.",
     "version": "1.0.0-beta",
     "type": "library",
